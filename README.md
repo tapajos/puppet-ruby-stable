@@ -1,8 +1,8 @@
-# Rubystable module for Puppet
+# Ruby_stable module for Puppet
 
 ## Description
 
-Installs the last ruby stable.
+Installs the last ruby stable from Hellobits apt repository.
 
 ## Usage
 
@@ -10,4 +10,4 @@ Installs the last ruby stable.
     
 ## Thanks
 
-[@fnando](https://github.com/fnando) thanks for keeping this package updated.
+[@fnando](https://github.com/fnando) thanks for keeping ruby stable package updated.
